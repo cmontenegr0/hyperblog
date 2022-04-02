@@ -15,3 +15,5 @@ para cambiar el email
 esperando un ascenso
 
 terminó una maestria.
+
+aprendiendo git y python.
