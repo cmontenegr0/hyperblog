@@ -17,3 +17,5 @@ esperando un ascenso
 terminó una maestria.
 
 aprendiendo git y python.
+
+acabo de enviar el seguimiento de planeacion.
