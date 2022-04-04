@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Github
 * El flujo de trabajo de Github
 * Las buenas practicas utilizadas por profesionales
 * Shortcuts y trucos muy necesarios
+* Creado por el increible Cristian Montenegro
 
 Y como recordatorio **Este readme.md es una prueba** diseñado para el ejemplo.
