@@ -16,13 +16,7 @@ esperando un ascenso
 
 terminó una maestria.
 
-Experimento 1
-
-Experimento 2
-
-Master 1
-
-Master 2
+Master 3
 
 aprendiendo git y python.
 
